@@ -45,7 +45,7 @@
       "emision": "EN_VIVO",
       "idioma": "und",
       "clasificacionEdad": "SIN_CLASIFICAR",
-      "imagen": null,
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
       "fuentes": [
         {
           "id": "src-0002-1",
@@ -77,7 +77,7 @@
       "emision": "EN_VIVO",
       "idioma": "und",
       "clasificacionEdad": "SIN_CLASIFICAR",
-      "imagen": null,
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png",
       "fuentes": [
         {
           "id": "src-0003-1",
@@ -109,7 +109,7 @@
       "emision": "EN_VIVO",
       "idioma": "und",
       "clasificacionEdad": "SIN_CLASIFICAR",
-      "imagen": null,
+      "imagen": "https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoSVG.svg",
       "fuentes": [
         {
           "id": "src-0004-1",
@@ -141,7 +141,7 @@
       "emision": "EN_VIVO",
       "idioma": "und",
       "clasificacionEdad": "SIN_CLASIFICAR",
-      "imagen": null,
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
       "fuentes": [
         {
           "id": "src-0005-1",
@@ -173,7 +173,7 @@
       "emision": "EN_VIVO",
       "idioma": "und",
       "clasificacionEdad": "SIN_CLASIFICAR",
-      "imagen": null,
+      "imagen": "https://i.imgur.com/3yXRbQy.png",
       "fuentes": [
         {
           "id": "src-0006-1",
@@ -205,7 +205,7 @@
       "emision": "EN_VIVO",
       "idioma": "und",
       "clasificacionEdad": "SIN_CLASIFICAR",
-      "imagen": null,
+      "imagen": "https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoSVG.svg",
       "fuentes": [
         {
           "id": "src-0007-1",
@@ -237,7 +237,7 @@
       "emision": "EN_VIVO",
       "idioma": "und",
       "clasificacionEdad": "SIN_CLASIFICAR",
-      "imagen": null,
+      "imagen": "https://images.pluto.tv/channels/6759ee82bd523200083b4f0f/colorLogoSVG.svg",
       "fuentes": [
         {
           "id": "src-0008-1",
@@ -269,7 +269,7 @@
       "emision": "EN_VIVO",
       "idioma": "und",
       "clasificacionEdad": "SIN_CLASIFICAR",
-      "imagen": null,
+      "imagen": "https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png/revision/latest?cb=20260612182539",
       "fuentes": [
         {
           "id": "src-0009-1",
@@ -301,7 +301,7 @@
       "emision": "EN_VIVO",
       "idioma": "und",
       "clasificacionEdad": "SIN_CLASIFICAR",
-      "imagen": null,
+      "imagen": "https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoSVG.svg",
       "fuentes": [
         {
           "id": "src-0010-1",
@@ -333,7 +333,7 @@
       "emision": "EN_VIVO",
       "idioma": "und",
       "clasificacionEdad": "SIN_CLASIFICAR",
-      "imagen": null,
+      "imagen": "https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoSVG.svg",
       "fuentes": [
         {
           "id": "src-0011-1",
@@ -365,7 +365,7 @@
       "emision": "EN_VIVO",
       "idioma": "und",
       "clasificacionEdad": "SIN_CLASIFICAR",
-      "imagen": null,
+      "imagen": "https://i.imgur.com/hG8F0RY.png",
       "fuentes": [
         {
           "id": "src-0012-1",
@@ -397,7 +397,7 @@
       "emision": "EN_VIVO",
       "idioma": "und",
       "clasificacionEdad": "SIN_CLASIFICAR",
-      "imagen": null,
+      "imagen": "https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png",
       "fuentes": [
         {
           "id": "src-0013-1",
@@ -429,7 +429,7 @@
       "emision": "EN_VIVO",
       "idioma": "und",
       "clasificacionEdad": "SIN_CLASIFICAR",
-      "imagen": null,
+      "imagen": "https://i.imgur.com/XsvbAWR.png",
       "fuentes": [
         {
           "id": "src-0014-1",
@@ -461,7 +461,7 @@
       "emision": "EN_VIVO",
       "idioma": "und",
       "clasificacionEdad": "SIN_CLASIFICAR",
-      "imagen": null,
+      "imagen": "https://images.pluto.tv/channels/629a066860ef810008267b70/solidLogoPNG.png?w=512",
       "fuentes": [
         {
           "id": "src-0015-1",
@@ -493,7 +493,7 @@
       "emision": "EN_VIVO",
       "idioma": "und",
       "clasificacionEdad": "SIN_CLASIFICAR",
-      "imagen": null,
+      "imagen": "https://i.imgur.com/VH8RiHg.png",
       "fuentes": [
         {
           "id": "src-0016-1",
@@ -516,7 +516,7 @@
     {
       "id": "live-0017",
       "idAnterior": 17,
-      "nombre": "Pluto",
+      "nombre": "Pluto TV Anime",
       "habilitado": true,
       "categorias": [
         "ANIME"
@@ -525,7 +525,7 @@
       "emision": "EN_VIVO",
       "idioma": "und",
       "clasificacionEdad": "SIN_CLASIFICAR",
-      "imagen": null,
+      "imagen": "https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoSVG.svg",
       "fuentes": [
         {
           "id": "src-0017-1",
@@ -548,7 +548,7 @@
     {
       "id": "live-0018",
       "idAnterior": 18,
-      "nombre": "Cine Terror US",
+      "nombre": "Cine Terror",
       "habilitado": true,
       "categorias": [
         "PELICULAS",
@@ -558,7 +558,7 @@
       "emision": "EN_VIVO",
       "idioma": "und",
       "clasificacionEdad": "SIN_CLASIFICAR",
-      "imagen": null,
+      "imagen": "https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/colorLogoSVG.svg",
       "fuentes": [
         {
           "id": "src-0018-1",
@@ -591,7 +591,7 @@
       "emision": "EN_VIVO",
       "idioma": "und",
       "clasificacionEdad": "SIN_CLASIFICAR",
-      "imagen": null,
+      "imagen": "https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/colorLogoSVG.svg",
       "fuentes": [
         {
           "id": "src-0019-1",
@@ -623,7 +623,7 @@
       "emision": "EN_VIVO",
       "idioma": "und",
       "clasificacionEdad": "SIN_CLASIFICAR",
-      "imagen": null,
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",
       "fuentes": [
         {
           "id": "src-0020-1",
@@ -655,7 +655,7 @@
       "emision": "EN_VIVO",
       "idioma": "und",
       "clasificacionEdad": "SIN_CLASIFICAR",
-      "imagen": null,
+      "imagen": "https://i.imgur.com/v3BO4nW.png",
       "fuentes": [
         {
           "id": "src-0021-1",
