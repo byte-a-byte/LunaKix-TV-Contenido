@@ -3,27 +3,94 @@
   "categorias": [
     {
       "id": "ANIME",
-      "nombre": "Anime"
+      "nombre": "Anime",
+      "descripcion": "Series y películas de animación japonesa, de distintos géneros y públicos."
     },
     {
       "id": "DIBUJOS",
-      "nombre": "Caricaturas"
+      "nombre": "Caricaturas",
+      "descripcion": "Dibujos animados y caricaturas para diferentes edades."
     },
     {
       "id": "PELICULAS",
-      "nombre": "Películas"
+      "nombre": "Películas",
+      "descripcion": "Películas de diversos géneros, épocas y países."
     },
     {
       "id": "TERROR",
-      "nombre": "Terror y suspenso"
+      "nombre": "Terror y suspenso",
+      "descripcion": "Historias de miedo, misterio, suspenso y tensión."
     },
     {
       "id": "SERIES",
-      "nombre": "Series"
+      "nombre": "Series",
+      "descripcion": "Series de ficción y programas organizados por episodios."
     },
     {
       "id": "MUSICA",
-      "nombre": "Música"
-    }
-  ]
-}
+      "nombre": "Música",
+      "descripcion": "Videoclips, conciertos, presentaciones y programas musicales."
+    },
+    {
+      "id": "AUTOMOVILES",
+      "nombre": "Automóviles y motor",
+      "descripcion": "Automóviles, motocicletas, competencias y cultura del motor."
+    },
+    {
+      "id": "ANIMACION",
+      "nombre": "Animación",
+      "descripcion": "Producciones animadas de diferentes estilos y países."
+    },
+    {
+      "id": "NEGOCIOS",
+      "nombre": "Negocios",
+      "descripcion": "Economía, empresas, finanzas y actualidad empresarial."
+    },
+    {
+      "id": "CLASICOS",
+      "nombre": "Clásicos",
+      "descripcion": "Películas y programas clásicos de distintas décadas."
+    },
+    {
+      "id": "COMEDIA",
+      "nombre": "Comedia",
+      "descripcion": "Humor, sketches, comedias y programas para divertirse."
+    },
+    {
+      "id": "COCINA",
+      "nombre": "Cocina y gastronomía",
+      "descripcion": "Recetas, cocina, gastronomía y cultura alimentaria."
+    },
+    {
+      "id": "CULTURA",
+      "nombre": "Cultura",
+      "descripcion": "Arte, patrimonio, tradiciones e identidad cultural."
+    },
+    {
+      "id": "DOCUMENTALES",
+      "nombre": "Documentales",
+      "descripcion": "Documentales sobre historia, sociedad, naturaleza y otros temas."
+    },
+    {
+      "id": "EDUCACION",
+      "nombre": "Educación",
+      "descripcion": "Contenido educativo, aprendizaje y divulgación."
+    },
+    {
+      "id": "ENTRETENIMIENTO",
+      "nombre": "Entretenimiento",
+      "descripcion": "Variedades, concursos y programas de entretenimiento."
+    },
+    {
+      "id": "FAMILIA",
+      "nombre": "Familia",
+      "descripcion": "Programas y películas orientados al público familiar."
+    },
+    {
+      "id": "GENERAL",
+      "nombre": "General",
+      "descripcion": "Canales con programación variada y de distintos géneros."
+    },
+    {
+      "id": "INTERACTIVOS",
+      "nombre": "Interactivos",
