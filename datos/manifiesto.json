@@ -1,41 +1,41 @@
 {
-    "versionEsquema":  1,
-    "versionCatalogo":  "2.1.2",
-    "urlBaseRemota":  null,
-    "requiereConfigurarUrlBaseRemota":  true,
-    "archivos":  [
-                     {
-                         "ruta":  "canales.json",
-                         "sha256":  "e8a745a440b609aa1681875300a9d842845338f929a2a6908b2782d0745d4353"
-                     },
-                     {
-                         "ruta":  "series.json",
-                         "sha256":  "6023247b68ea44f707009416e720ba8b29c7bbc4c75e43b106e1ef2ebd3ad04c"
-                     },
-                     {
-                         "ruta":  "peliculas.json",
-                         "sha256":  "9f8974662ed369b719effd26fbf94f1c6f199d44c20e7a855df14e61780834a6"
-                     },
-                     {
-                         "ruta":  "radio.json",
-                         "sha256":  "f945db34b7a805269cd41b345c0a71cdb1a750daeb20bf15ce171777e620b43d"
-                     },
-                     {
-                         "ruta":  "franquicias.json",
-                         "sha256":  "aa0d8a8f26c6e2aa8eac690bc6b6f25472b4a10b7446689cbdf865bb1863fd72"
-                     },
-                     {
-                         "ruta":  "categorias.json",
-                         "sha256":  "3763ded4ba52eb4a71660c380561aa8cc69130ee914f98afc9c12916ca6fca03"
-                     },
-                     {
-                         "ruta":  "configuracion.json",
-                         "sha256":  "44187da73a0f5bc5f05444ccdf97a100d8bfa8dd28b1163776dce4539a04f1eb"
-                     }
-                 ],
-    "publicacion":  {
-                        "descargaCompletaRequerida":  true,
-                        "validarAntesDeActivar":  true,
-                        "conservarUltimoCatalogoValido":  true
-                    }
+  "versionEsquema": 1,
+  "versionCatalogo": "2.1.3",
+  "urlBaseRemota": "https://raw.githubusercontent.com/byte-a-byte/LunaKix-TV-Contenido/main/datos/",
+  "requiereConfigurarUrlBaseRemota": false,
+  "archivos": [
+    {
+      "ruta": "canales.json",
+      "sha256": "039331871c2e7b8247dca9df6635626bbced57fcd7ac921581dc9ca5fa6ee74e"
+    },
+    {
+      "ruta": "series.json",
+      "sha256": "6023247b68ea44f707009416e720ba8b29c7bbc4c75e43b106e1ef2ebd3ad04c"
+    },
+    {
+      "ruta": "peliculas.json",
+      "sha256": "9f8974662ed369b719effd26fbf94f1c6f199d44c20e7a855df14e61780834a6"
+    },
+    {
+      "ruta": "radio.json",
+      "sha256": "f945db34b7a805269cd41b345c0a71cdb1a750daeb20bf15ce171777e620b43d"
+    },
+    {
+      "ruta": "franquicias.json",
+      "sha256": "aa0d8a8f26c6e2aa8eac690bc6b6f25472b4a10b7446689cbdf865bb1863fd72"
+    },
+    {
+      "ruta": "categorias.json",
+      "sha256": "a349211dfeb08f50892a9f43b38ceb776dc1ed65ae4afd8a66e13d72a920989e"
+    },
+    {
+      "ruta": "configuracion.json",
+      "sha256": "44187da73a0f5bc5f05444ccdf97a100d8bfa8dd28b1163776dce4539a04f1eb"
+    }
+  ],
+  "publicacion": {
+    "descargaCompletaRequerida": true,
+    "validarAntesDeActivar": true,
+    "conservarUltimoCatalogoValido": true
+  }
 }

@@ -94,3 +94,82 @@
     {
       "id": "INTERACTIVOS",
       "nombre": "Interactivos",
+      "descripcion": "Programas y experiencias con participación del público."
+    },
+    {
+      "id": "INFANTIL",
+      "nombre": "Infantil",
+      "descripcion": "Programas y contenido dirigido principalmente a niñas y niños."
+    },
+    {
+      "id": "LEGISLATIVO",
+      "nombre": "Legislativo y gobierno",
+      "descripcion": "Sesiones legislativas, instituciones públicas y asuntos de gobierno."
+    },
+    {
+      "id": "ESTILO_DE_VIDA",
+      "nombre": "Estilo de vida",
+      "descripcion": "Hogar, bienestar, tendencias y actividades cotidianas."
+    },
+    {
+      "id": "NOTICIAS",
+      "nombre": "Noticias",
+      "descripcion": "Noticias, reportajes y cobertura de acontecimientos actuales."
+    },
+    {
+      "id": "AIRE_LIBRE",
+      "nombre": "Aire libre y naturaleza",
+      "descripcion": "Naturaleza, aventura y actividades al aire libre."
+    },
+    {
+      "id": "PUBLICOS",
+      "nombre": "Servicio público",
+      "descripcion": "Información comunitaria, institucional y de interés público."
+    },
+    {
+      "id": "RELAJACION",
+      "nombre": "Relajación",
+      "descripcion": "Paisajes, sonidos y programas pensados para descansar."
+    },
+    {
+      "id": "RELIGION",
+      "nombre": "Religión",
+      "descripcion": "Ceremonias, enseñanzas y programas de temática religiosa."
+    },
+    {
+      "id": "CIENCIA",
+      "nombre": "Ciencia y tecnología",
+      "descripcion": "Ciencia, tecnología, innovación y descubrimientos."
+    },
+    {
+      "id": "COMPRAS",
+      "nombre": "Compras",
+      "descripcion": "Ofertas, productos, demostraciones y programas comerciales."
+    },
+    {
+      "id": "DEPORTES",
+      "nombre": "Deportes",
+      "descripcion": "Competiciones, noticias y programas deportivos."
+    },
+    {
+      "id": "VIAJES",
+      "nombre": "Viajes",
+      "descripcion": "Destinos turísticos, rutas, culturas y experiencias de viaje."
+    },
+    {
+      "id": "CLIMA",
+      "nombre": "Clima",
+      "descripcion": "Pronósticos meteorológicos e información sobre el tiempo."
+    },
+    {
+      "id": "MUJER",
+      "nombre": "Mujer",
+      "descripcion": "Programas de diversos temas dirigidos principalmente al público femenino."
+    },
+    {
+      "id": "ADULTOS",
+      "nombre": "Adultos (+18)",
+      "descripcion": "Contenido destinado exclusivamente a personas adultas."
+    }
+  ]
+}
